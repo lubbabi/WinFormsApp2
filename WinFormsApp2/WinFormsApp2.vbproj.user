@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AccountCreation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddCandidate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddHomeowner.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CandidatesList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HomeownersList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainWindow.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Overview.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PasswordResetForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegistrationForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RemoveCandidate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RemoveHomeowner.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
